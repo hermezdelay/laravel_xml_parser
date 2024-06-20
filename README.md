@@ -6,4 +6,4 @@
 # For the example i'll insert data to mysql database but in reality i don't matter because the ORM Eloquent  will communicate with all of them (this is the adventage to use LARAVEL !).
 
 1- il faut lancer le serveur laragon
-2-
+2- lancez la commande: php artisan serv
